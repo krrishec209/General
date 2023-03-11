@@ -75,3 +75,18 @@ Payscale - http://www.payscale.com/
 Glassdoor - http://www.glassdoor.com/
 PaycheckCity - https://lnkd.in/gAT3Di8r
 
+****************** Story Telling **********
+
+Passing interviews = Storytelling
+Winning clients = Storytelling
+Building relationships = Storytelling
+Establishing trust = Storytelling
+Inspiring & motivating = Storytelling
+Creating memorable experiences = Storytelling
+Sharing vision & values = Storytelling
+Simplifying complex ideas = Storytelling
+Engaging your audience = Storytelling
+Persuading to take action = Storytelling
+
+In summary, Storytelling is a vital skill that benefits your career and personal life.
+
