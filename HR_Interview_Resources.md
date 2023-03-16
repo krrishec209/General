@@ -1,5 +1,8 @@
 SDE Level Interview Preparation (HR Interview Resources) for Top Product Based Companies 🙌
 
+https://prepinsta.com/interview-preparation/hr-interview-questions/
+
+
 👉 Tell me about yourself. : https://lnkd.in/dtjBaKnu
 
 👉 Why do you want to work for our company? - https://lnkd.in/dtjBaKnu
