@@ -90,3 +90,9 @@ Persuading to take action = Storytelling
 
 In summary, Storytelling is a vital skill that benefits your career and personal life.
 
+*******************
+
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+
+
+
