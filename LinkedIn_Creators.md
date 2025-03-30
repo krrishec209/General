@@ -33,6 +33,17 @@ Day 194 📅
 
 In Spring Boot applications, a well-structured 3-layer architecture improves code maintainability and scalability.
 
+
+https://www.linkedin.com/in/sumitlad/
+
+Software Engineering | Amazon | Java | Full-Stack | Ex-Apple
+
+California State University-Long Beach
+San Francisco Bay Area  Contact info
+Grab My FAANG Interview Guide 
+53,261 followers 
+500+ connections
+
 *****************************
 
 React.js
