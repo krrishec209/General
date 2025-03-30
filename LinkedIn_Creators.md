@@ -21,6 +21,21 @@ Ashish Pratap Singh
 Founder @ AlgoMaster.io | YouTube (160k+) | Prev @ Amazon
 
 
+https://www.linkedin.com/in/aashish-kulkarni4/
+
+Aashish Kulkarni 
+  2nd degree connection2nd
+Java Developer | 2+ Years Experience | 300K+ LinkedIn Impressions | Spring Boot, MySQL, Next.js, Bootstrap
+
+Day 194 📅
+
+🚀 Mastering the Entity, Repository, and Service Layers in Spring Boot!
+
+In Spring Boot applications, a well-structured 3-layer architecture improves code maintainability and scalability.
+
+
+
+
 
 ***************************** 
 
@@ -36,6 +51,18 @@ https://www.linkedin.com/in/anshul-chhabra-46ba9b113/
 Anshul Chhabra 
   2nd degree connection2nd
 Senior Software Engineer @ Microsoft | Follow me for daily insights on Career growth, interview preparation & becoming a better software engineer.
+
+
+https://www.linkedin.com/in/rajatgajbhiye/
+
+Rajat Gajbhiye 
+  2nd degree connection2nd
+Writes to 150k+ | SDE at Suma Soft | Tech | AI | DM for collaboration
+
+COEP Technological University
+Pune, Maharashtra, India  Contact info
+166,306 followers 
+500+ connections
 
 *****************
 
