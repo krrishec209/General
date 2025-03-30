@@ -33,7 +33,23 @@ Day 194 📅
 
 In Spring Boot applications, a well-structured 3-layer architecture improves code maintainability and scalability.
 
+*****************************
 
+React.js
+
+https://www.linkedin.com/in/saikrishnanangunuri/
+
+Sai Krishna Nangunuri 
+ (He/Him)  2nd degree connection2nd
+Lead Engineer at Inspire Brands | Educator Influencer | 107k+ on Instagram | 16k+ on Linkedin | 21k+ on youtube | Full stack Reactjs developer
+
+Inspire
+
+Osmania University
+Greater Hyderabad Area  Contact info
+175 Javascript Int Ques Ebook 
+16,631 followers 
+500+ connections
 
 
 
