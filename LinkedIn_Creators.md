@@ -62,6 +62,12 @@ Software Engineer - II at American Express | Java | Spring Boot | Python | MySQL
 
 # 🚀 Java Interview Questions – Part 2 (Advanced Topics) 🚀 
 
+
+https://www.linkedin.com/in/mohal-bansal/
+
+
+Typical java interview questions sorted by experience
+
 *****************************
 
 React.js
