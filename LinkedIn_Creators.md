@@ -44,6 +44,24 @@ Grab My FAANG Interview Guide
 53,261 followers 
 500+ connections
 
+
+https://www.linkedin.com/in/ajay-wahane-10018995/
+
+Immediate Joinner | Java Developer | Microservices | Spring Boot | Java8 | RESTful APIs | Hibernate | Backend Engineer | Scalable Software Solutions | 5+ Years Experience
+
+
+🚀 Tricky Interview Questions Series on Core Java. 🌟 
+
+Q. Why is the Double Checked Locking (DCL) used in Singleton?
+
+https://www.linkedin.com/in/priteshpawar48/
+
+Pritesh Pawar
+ (He/Him)  2nd degree connection2nd
+Software Engineer - II at American Express | Java | Spring Boot | Python | MySQL Developer | Strong in System Design | Expert Problem Solver (600+ Leetcode)
+
+# 🚀 Java Interview Questions – Part 2 (Advanced Topics) 🚀 
+
 *****************************
 
 React.js
