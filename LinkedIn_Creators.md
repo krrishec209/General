@@ -87,6 +87,20 @@ Greater Hyderabad Area  Contact info
 500+ connections
 
 
+https://www.linkedin.com/in/sakshi-gawande/
+
+
+Sakshi Gawande 
+ (She/Her)  2nd degree connection2nd
+SWE | Frontend Developer ( Next.js, React.js ) | Docker, Express, JavaScript, Redux, MongoDB | TailwindCSS | Java | SQL | Git
+
+Faxtor
+
+Sant Gadge Baba Amravati University, Amravati
+Bengaluru, Karnataka, India  Contact info
+Portfolio 
+22,200 followers 
+500+ connections
 
 ***************************** 
 
