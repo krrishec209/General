@@ -135,3 +135,20 @@ Spring
 
 https://www.linkedin.com/in/ismail-khan-a3a799316/
 
+
+
+********************
+
+REsume writing
+
+https://www.linkedin.com/in/malhotra-neha/
+
+Neha Malhotra ↗️ 
+  2nd degree connection2nd
+RESUME WRITER ✨ Keynote Speaker @ IIT MADRAS | IIM Bangalore ✨RESUME REVIEWER✨HR ✨LINKEDIN COACH✨LINKEDIN BRANDING ✨ JOB SEARCH STRATEGIST ✨ CAREER COACH ✨ Helping Job Seekers land amazing jobs✨
+
+SIM ENTERPRISES
+Delhi, India  Contact info
+Here's what I can Offer 
+476,824 followers 
+500+ connections
