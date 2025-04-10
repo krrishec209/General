@@ -103,6 +103,16 @@ Portfolio
 500+ connections
 
 
+
+Anmol Agarwal 
+  2nd degree connection2nd
+Software Engineer 2 @Uber ex- Deshaw| I love story telling | React | Golang | Fullstack | 100+ bookings on topmate (Top 1%) | 87K+ followers| DM for referrals | NSIT(now NSUT) | Mentor | Singer and Guitarist | Youtuber
+
+Uber
+
+Netaji Subhas Institute of Technology
+Hyderabad, Telangana, India  Contact info
+
 https://www.linkedin.com/in/anmol-agarwal-674a21166/
 
 A candidate was rejected in a frontend interview because he didn’t use useReducer over useState😞
