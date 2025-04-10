@@ -68,6 +68,33 @@ https://www.linkedin.com/in/mohal-bansal/
 
 Typical java interview questions sorted by experience
 
+https://www.linkedin.com/in/lahiru-liyanapathirana/
+
+Struggling with slow Spring Boot startups? These optimization techniques might be the solution you've been searching for.
+
+Why Startup Time Matters:
+
+1. User Experience: Ensures quicker user access and responsive services.
+2. Scalability: Enables efficient cloud scaling (e.g., Kubernetes, serverless) by reducing cold start delays.
+3. Resource Efficiency: Reduces idle resource consumption (CPU/memory) during initialization.
+4. DevOps Agility: Accelerates development/deployment cycles for CI/CD pipelines and rapid iteration.
+
+Several optimization techniques can be used to improve Spring Boot’s startup time.
+
+Following are some of the important techniques:
+
+1. Enable Lazy Initialization
+2. Minimize Classpath Scanning
+3. Optimize Auto-Configuration
+4. Use Profile-Specific Configuration
+5. Optimize Logging Configuration
+6. Optimize JVM Settings
+7. Ahead-of-Time (AOT) Compilation with Spring Native
+8. Enable Application Class-Data Sharing (AppCDS)
+
+Stay tuned for more informative posts on the Spring Framework.
+
+
 *****************************
 
 React.js
