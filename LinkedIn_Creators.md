@@ -102,6 +102,55 @@ Portfolio
 22,200 followers 
 500+ connections
 
+
+https://www.linkedin.com/in/anmol-agarwal-674a21166/
+
+A candidate was rejected in a frontend interview because he didn’t use useReducer over useState😞
+
+If you've worked with React forms, you've probably encountered something like this: 
+
+const [title, setTitle] = useState(''); 
+const [description, setDescription] = useState(''); 
+const [startDate, setStartDate] = useState(); 
+const [endDate, setEndDate] = useState(); 
+….
+
+At first, this looks fine. But as the form grows, so do the problems: 
+
+Too many individual useState calls 
+No built-in validation 
+Risk of inconsistent state 
+
+For example, there’s nothing preventing an end date from being before a start date or a title from exceeding a reasonable length. 
+
+A Smarter Alternative: useReducer 
+
+Instead of managing state in multiple places, useReducer centralizes everything. Here's how we simplify the above: 
+
+const [event, updateEvent] = useReducer((prev, next) => { 
+ const newEvent = { ...prev, ...next }; 
+
+ if (newEvent.startDate > newEvent.endDate) { 
+ newEvent.endDate = newEvent.startDate; 
+ } 
+
+ if (newEvent.title.length > 100) { 
+ newEvent.title = newEvent.title.substring(0, 100); 
+ } 
+
+ return newEvent; 
+}, { title: '', description: '', startDate: null, endDate: null }); 
+
+Now, every update must pass through updateEvent, which ensures the state stays valid. 
+
+These tiny details can make or break your chances. To dive deeper into these concepts, I recommend the Namaste React course by Akshay Saini 🚀 — I’ve personally found it super helpful during my job hunt.
+
+They also offer Namaste Node.js and a Namaste Frontend System Design course, which are equally valuable.
+
+Checkout the courses here -
+https://lnkd.in/gwr6zDRy
+
+
 ***************************** 
 
 System Design
